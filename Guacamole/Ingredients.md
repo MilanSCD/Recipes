@@ -5,4 +5,4 @@ Onion
 Corriander
 tomato
 salt
-pepper
+rock salt
