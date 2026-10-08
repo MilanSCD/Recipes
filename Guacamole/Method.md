@@ -1,3 +1,3 @@
 guacamole Method
 mash an avocado
-mix it with lime juice
+mix it with lemon juice

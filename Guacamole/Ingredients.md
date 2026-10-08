@@ -1,3 +1,3 @@
 Guacamole Ingredients
 Avocado
-Limes
+Lemons
