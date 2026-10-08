@@ -4,3 +4,5 @@ Lemons
 Onion
 Corriander
 tomato
+salt
+pepper
